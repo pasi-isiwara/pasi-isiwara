@@ -23,8 +23,8 @@
 Always open to collaborations, learning, and building something meaningful!
 
 📫 How to reach me:
-- Email: `your-email@example.com` *(replace with your real email)*
-- LinkedIn: [linkedin.com/in/pasi-isiwara](https://linkedin.com/in/pasi-isiwara) *(optional)*
+- Email: `pasi.isiwara@gmail.com` 
+- LinkedIn: [linkedin.com/in/pasi-isiwara](https://linkedin.com/in/pasi-isiwara)
 
 ---
 
