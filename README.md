@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Pasindu Isiwara Karunarathna!
+#  Hi, I'm Pasindu Isiwara Karunarathna!
 
-🎓 I'm a 2nd-year Computer Engineering undergraduate at the Faculty of Engineering, University of Ruhuna, Sri Lanka.
+🎓 I'm a 3rd-year Computer Engineering undergraduate at the Faculty of Engineering, University of Ruhuna, Sri Lanka.
 
 💡 I'm passionate about:
 - Designing innovative solutions to simplify everyday tasks
